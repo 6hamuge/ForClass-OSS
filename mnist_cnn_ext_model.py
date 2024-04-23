@@ -130,4 +130,9 @@ print("Final test accuray: %f" %Final_acc)
 # git init 후 수정사항이 반영되는지 안 되는지 확인용
 # 다시
 # 또오오 다시
+<<<<<<< HEAD
 # 두번째 에러 해결 방법 테스트
+=======
+
+# 이번엔 vs code로 github 접근
+>>>>>>> f5ddacaae3c735d544f81c008a9537e56db97484
