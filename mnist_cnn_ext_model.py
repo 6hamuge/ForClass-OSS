@@ -130,3 +130,4 @@ print("Final test accuray: %f" %Final_acc)
 # git init 후 수정사항이 반영되는지 안 되는지 확인용
 # 다시
 # 또오오 다시
+# 두번째 에러 해결 방법 테스트
